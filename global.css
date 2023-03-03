@@ -1,0 +1,23 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    height: 75px;background-color: aqua;
+    border: 2px solid orange;}
+.menuBlock ul{
+    display: flex;
+    width: 400px;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 10px;
+    margin-right: 40px;}
+img{
+    width: 200px;
+    height: 80px;}
+.menuBlock ul li a{
+    text-decoration: none;
+    color: brown;}
+.menuBlock ul li a:hover{color: blue;}
+.menuBlock ul li{
+    list-style: none ;
+    font-size: larger;
+    font-weight: 900;}
